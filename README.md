@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment/Lab 1
 
 Hi.
@@ -17,3 +18,7 @@ Hi.
 
 ## Resolve merge conflicts
 - Resolve feature branch conflicts
+=======
+# iisc-mlops
+# iisc-mlops
+>>>>>>> 8328f6ae4b971f47f59226d5f6441c0fa2b323d1
